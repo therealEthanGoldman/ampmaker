@@ -1,0 +1,11 @@
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\obj\Debug\netcoreapp3.1\Ampmaker.csprojAssemblyReference.cache
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\obj\Debug\netcoreapp3.1\Ampmaker.AssemblyInfoInputs.cache
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\obj\Debug\netcoreapp3.1\Ampmaker.AssemblyInfo.cs
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\bin\Debug\netcoreapp3.1\Ampmaker.exe
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\bin\Debug\netcoreapp3.1\Ampmaker.deps.json
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\bin\Debug\netcoreapp3.1\Ampmaker.runtimeconfig.json
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\bin\Debug\netcoreapp3.1\Ampmaker.runtimeconfig.dev.json
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\bin\Debug\netcoreapp3.1\Ampmaker.dll
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\bin\Debug\netcoreapp3.1\Ampmaker.pdb
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\obj\Debug\netcoreapp3.1\Ampmaker.dll
+C:\Users\e_dud\source\repos\Ampmaker\Ampmaker\obj\Debug\netcoreapp3.1\Ampmaker.pdb
